@@ -1,0 +1,16 @@
+C:\Users\q1\Desktop\ItcastCater\CaterCommon\bin\Debug\CaterCommon.dll
+C:\Users\q1\Desktop\ItcastCater\CaterCommon\bin\Debug\CaterCommon.pdb
+C:\Users\q1\Desktop\ItcastCater\CaterCommon\obj\Debug\CaterCommon.csprojResolveAssemblyReference.cache
+C:\Users\q1\Desktop\ItcastCater\CaterCommon\obj\Debug\CaterCommon.dll
+C:\Users\q1\Desktop\ItcastCater\CaterCommon\obj\Debug\CaterCommon.pdb
+C:\Users\q1\Desktop\ItcastCater\CaterCommon\bin\Debug\ChnCharInfo.dll
+C:\Users\q1\Desktop\ItcastCater\CaterCommon\bin\Debug\ChnCharInfo.xml
+D:\BaiduNetdiskDownload\NET就业班第24期\2015-05-19.NET就业班-三层项目+SVN\资料\资料\ItcastCater\ItcastCater\CaterCommon\bin\Debug\CaterCommon.dll
+D:\BaiduNetdiskDownload\NET就业班第24期\2015-05-19.NET就业班-三层项目+SVN\资料\资料\ItcastCater\ItcastCater\CaterCommon\bin\Debug\CaterCommon.pdb
+D:\BaiduNetdiskDownload\NET就业班第24期\2015-05-19.NET就业班-三层项目+SVN\资料\资料\ItcastCater\ItcastCater\CaterCommon\bin\Debug\ChnCharInfo.dll
+D:\BaiduNetdiskDownload\NET就业班第24期\2015-05-19.NET就业班-三层项目+SVN\资料\资料\ItcastCater\ItcastCater\CaterCommon\bin\Debug\ChnCharInfo.xml
+D:\BaiduNetdiskDownload\NET就业班第24期\2015-05-19.NET就业班-三层项目+SVN\资料\资料\ItcastCater\ItcastCater\CaterCommon\obj\Debug\CaterCommon.csprojAssemblyReference.cache
+D:\BaiduNetdiskDownload\NET就业班第24期\2015-05-19.NET就业班-三层项目+SVN\资料\资料\ItcastCater\ItcastCater\CaterCommon\obj\Debug\CaterCommon.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\NET就业班第24期\2015-05-19.NET就业班-三层项目+SVN\资料\资料\ItcastCater\ItcastCater\CaterCommon\obj\Debug\CaterCommon.csproj.CopyComplete
+D:\BaiduNetdiskDownload\NET就业班第24期\2015-05-19.NET就业班-三层项目+SVN\资料\资料\ItcastCater\ItcastCater\CaterCommon\obj\Debug\CaterCommon.dll
+D:\BaiduNetdiskDownload\NET就业班第24期\2015-05-19.NET就业班-三层项目+SVN\资料\资料\ItcastCater\ItcastCater\CaterCommon\obj\Debug\CaterCommon.pdb

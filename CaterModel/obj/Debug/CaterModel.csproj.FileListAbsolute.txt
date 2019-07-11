@@ -1,0 +1,11 @@
+C:\Users\q1\Desktop\ItcastCater\CaterModel\bin\Debug\CaterModel.dll
+C:\Users\q1\Desktop\ItcastCater\CaterModel\bin\Debug\CaterModel.pdb
+C:\Users\q1\Desktop\ItcastCater\CaterModel\obj\Debug\CaterModel.csprojResolveAssemblyReference.cache
+C:\Users\q1\Desktop\ItcastCater\CaterModel\obj\Debug\CaterModel.dll
+C:\Users\q1\Desktop\ItcastCater\CaterModel\obj\Debug\CaterModel.pdb
+D:\BaiduNetdiskDownload\NET就业班第24期\2015-05-19.NET就业班-三层项目+SVN\资料\资料\ItcastCater\ItcastCater\CaterModel\bin\Debug\CaterModel.dll
+D:\BaiduNetdiskDownload\NET就业班第24期\2015-05-19.NET就业班-三层项目+SVN\资料\资料\ItcastCater\ItcastCater\CaterModel\bin\Debug\CaterModel.pdb
+D:\BaiduNetdiskDownload\NET就业班第24期\2015-05-19.NET就业班-三层项目+SVN\资料\资料\ItcastCater\ItcastCater\CaterModel\obj\Debug\CaterModel.csprojAssemblyReference.cache
+D:\BaiduNetdiskDownload\NET就业班第24期\2015-05-19.NET就业班-三层项目+SVN\资料\资料\ItcastCater\ItcastCater\CaterModel\obj\Debug\CaterModel.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\NET就业班第24期\2015-05-19.NET就业班-三层项目+SVN\资料\资料\ItcastCater\ItcastCater\CaterModel\obj\Debug\CaterModel.dll
+D:\BaiduNetdiskDownload\NET就业班第24期\2015-05-19.NET就业班-三层项目+SVN\资料\资料\ItcastCater\ItcastCater\CaterModel\obj\Debug\CaterModel.pdb
